@@ -23,3 +23,12 @@ NOTE: Base of log is always **2**
 - Big Oh: The upper bound of an algorithm
 - Big Omega: The lower bound of an algorithm
 - Big Theta: The upper & lower bound of an algorithm
+
+## Date: Oct 1<sup>st</sup> 2020
+- DAGs: Directed Acyclic Graphs
+  - Used for causalities
+  - Use topological sort to sort a DAG
+- If a node is visited in a graph when it has been explored completely [both pre and post visited] it is not a cyclic graph.
+- It is a cyclic graph when it has only been pre visited but not post visited.
+- Source nodes have edges going out.
+- Sink nodes hace edges coming in.
