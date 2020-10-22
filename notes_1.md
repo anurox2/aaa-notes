@@ -25,6 +25,7 @@ NOTE: Base of log is always **2**
 - Big Theta: The upper & lower bound of an algorithm
 
 ## Date: Oct 1<sup>st</sup> 2020
+
 - DAGs: Directed Acyclic Graphs
   - Used for causalities
   - Use topological sort to sort a DAG
@@ -32,3 +33,20 @@ NOTE: Base of log is always **2**
 - It is a cyclic graph when it has only been pre visited but not post visited.
 - Source nodes have edges going out.
 - Sink nodes hace edges coming in.
+
+## Date: Oct 6<sup>th</sup> 2020
+
+Important Links
+
+> https://stackoverflow.com/questions/33590974/how-to-find-strongly-connected-components-in-a-graph
+>
+> https://youtu.be/eL-KzMXSXXI
+
+- Would DFS work with cyclic graphs?
+  > Yes
+
+
+## Date: Oct 22<sup>nd</sup> 2020
+
+### Greedy Algorithms
+- Doesn't surely have the lowest cost between all graphs, just between nodes.
